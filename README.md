@@ -1,8 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## `MovieInfo`
+## `iTunes`
 
-In the project directory, you can see the ratings of any movie:
+In the project directory, you can find top albums of itunes:
 
 ### `ScreenShots`
 
